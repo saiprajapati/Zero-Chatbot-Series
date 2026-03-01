@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# NLTK downloaded data
+nltk_data/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
