@@ -17,3 +17,6 @@ nltk_data/
 
 # Mac
 .DS_Store
+
+# Memory files (generated during runtime)
+memory.json
