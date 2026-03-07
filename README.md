@@ -29,7 +29,7 @@ Each version represents growth in architecture, design, and implementation.
 - Console-based interaction
 - Personal assistant responses
 
-### 🔜 v2 – Memory Enabled
+### ✅ v2 – Memory Enabled
 - Stores user name
 - Personalized replies
 - Basic conversational context
@@ -61,6 +61,7 @@ Zero may eventually integrate into my portfolio website where it can:
 ## 📝 Version Log
 
 - 2026-03-01 → v1 Released (Rule-Based)
+- 2026-03-07 → v2 Released (Memory-Version)
 
 ---
 
